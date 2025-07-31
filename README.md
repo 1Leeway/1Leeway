@@ -12,6 +12,7 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1400273052419489893/1400550440214466692/original_drawn_by_takarai_shunsuke__sample-047be179d97e23f66255fe079049886c_1_cropped.png?ex=688d0bbd&is=688bba3d&hm=ed125f78ce2c1395d2cc6c973ec053bfb30bc2099e228a561f36cb497278320a&" alt="avatar" width="150"
 
+<br>
 <div align="center">
   
   [![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/1Leewayy)
