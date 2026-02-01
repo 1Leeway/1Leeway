@@ -1,194 +1,146 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=%F0%9F%8C%B4+1Leeway+%7C+Web+Designer+%F0%9F%8C%B4;%F0%9F%8C%B4+Owner+of+Leeway-Studio+%F0%9F%8C%B4;%F0%9F%9A%80+Full-Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-<div align="center">
-  
-  ![GitHub followers](https://img.shields.io/github/followers/1leeway?style=for-the-badge&logo=github&color=ff6b35)
-  ![GitHub stars](https://img.shields.io/github/stars/1leeway?style=for-the-badge&logo=github&color=ff6b35)
-  ![Profile views](https://komarev.com/ghpvc/?username=1leeway&style=for-the-badge&color=ff6b35)
-  
-</div>
 
-<div align="center">
-  <img src="https://i.imgur.com/xTyHZrQ.png" alt="avatar" width="150"
+# 1Leeway
 
-<br>
-<div align="center">
-  
-  [![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/1Leewayy)
-  [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Leeway-Studio)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evan.goreau@gmail.com)
-  
+### Full-Stack Developer | UI/UX Designer
+
+<img src="https://i.imgur.com/gCyacXu.png" alt="avatar" width="150" />
+
+[![GitHub followers](https://img.shields.io/github/followers/1leeway?style=for-the-badge&logo=github&color=4A90E2&labelColor=2C3E50)](https://github.com/1leeway)
+[![GitHub stars](https://img.shields.io/github/stars/1leeway?style=for-the-badge&logo=github&color=5DADE2&labelColor=2C3E50)](https://github.com/1leeway)
+![Profile views](https://komarev.com/ghpvc/?username=1leeway&style=for-the-badge&color=85C1E9&labelColor=2C3E50)
+
 </div>
 
-## 🧠 Qui suis-je ?
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%8E%93+%C3%89tudiant+en+Cybers%C3%A9curit%C3%A9+%F0%9F%8E%93;%F0%9F%92%BB+D%C3%A9veloppeur+Full-Stack+%F0%9F%92%BB;%F0%9F%8E%A8+Designer+UI%2FUX+%F0%9F%8E%A8;" alt="About Me" />
+
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=1C1C1C)](https://twitch.tv/1Leewayy)
+[![Discord](https://img.shields.io/badge/Discord-4A90E2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1C1C1C)](https://discord.gg/Leeway-Studio)
+[![Email](https://img.shields.io/badge/Email-5DADE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C1C1C)](mailto:evan.goreau@gmail.com)
+
 </div>
 
 ---
-<br>
-<div align="center">
 
-Étudiant en **Bac Pro CIEL**, passionné par le code, le design et tout ce qui touche à la **customisation tech**.  
-Bot Discord, Interfaces Web, Perso j'aime quand ça claque visuellement 💻🌴
-</div>
+## About Me
 
-## 🛠️ Tech Stack & Skills
+**Cybersecurity Student** pursuing Bac Pro CIEL, specializing in full-stack development and UI/UX design.  
+Focused on creating clean, functional, and visually appealing digital solutions.
 
 <div align="center">
 
-### 🎨 Frontend Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
+```yaml
+role:
+Full-Stack Developer & Designer
+education:
+Bac Pro CIEL - Cybersecurity
+expertise:
+"Web Development", "Discord Bots", "UI/UX Design", "System Security"
+approach:
+"Clean code, professional design, optimal performance"
+```
 
-<br><br>
+---
 
-### ⚙️ Backend Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="60" alt="discordjs logo" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
+## Tech Stack
 
-<br><br>
+### Frontend Development
+<div align="center">
 
-### 🔐 Cybersecurity & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" alt="windows logo" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo" />&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/manjaro.svg" height="60" alt="manjaro logo" />&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" height="60" alt="kali linux logo" />&nbsp;&nbsp;&nbsp;
-<img src="https://i.imgur.com/1Ruk4Cu.png" height="60" alt="exodia os logo" />
-
-<br><br>
-
-### 🛠️ Development Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1C1C1C)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1C1C1C)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1C1C1C)
 
 </div>
 
-## 🎯 Contributions Graph
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=1leeway&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributions" />
-</div>
-
-## 🤖 Mon style
-
-<br>
-<br>
-
+### Backend Development
 <div align="center">
 
-| 🎨 Design | 🚀 Performance | 🔥 Innovation |
-|:---------:|:--------------:|:-------------:|
-| Dark Mode Lover 🌑 | Animations fluides ⚡ | UI/UX moderne 💫 |
-| Glassmorphism 🔮 | Code optimisé 🎯 | Vibes futuristes 🛸 |
-| Neon Effects ✨ | Responsive Design 📱 | Interfaces Dynamiques 💎 |
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1C1C1C)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1C1C1C)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1C1C1C)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1C1C1C)
 
 </div>
 
-## 📊 Compétence
+### Systems & Security
+<div align="center">
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=2C3E50)](https://www.linux.org/)
+[![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=2C3E50)](https://www.kali.org/)
+[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white&labelColor=2C3E50)](https://manjaro.org/)
+[![Athena OS](https://img.shields.io/badge/Athena_OS-5DADE2?style=for-the-badge&logo=linux&logoColor=white&labelColor=2C3E50)](https://athenaos.org/)
+[![Exodia](https://img.shields.io/badge/Exodia-85C1E9?style=for-the-badge&logo=linux&logoColor=white&labelColor=2C3E50)](https://exodia-os.github.io/exodia-website/)
+
+</div>
+
+### Development Tools
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1C1C1C)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1C1C1C)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1C1C1C)
+
+</div>
+
+---
+
+## Development Approach
 
 <div align="center">
 
-```
-JavaScript   ▥▥▥▥▥▥▥▥▢▢▢▢▢▢▢▢▢▢▢▢  40%
-```
-```
-CSS          ▥▥▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢  10%
-```
-```
-HTML         ▥▥▥▥▥▥▥▥▥▥▥▥▥▥▥▥▥▥▢▢  90%
-```
-```
-Python       ▥▥▥▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢  15%
-```
-```
-Other        ▥▥▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢  10%
+```yaml
+Design:
+  - Clean & Professional Interface
+  - User-Centric Solutions
+  - Minimalist Aesthetic
+
+Code Quality:
+  - Optimized Performance
+  - Maintainable Structure
+  - Industry Best Practices
+
+Delivery:
+  - Fully Responsive
+  - Cross-Platform Compatible
+  - Scalable Architecture
 ```
 
 </div>
 
 ---
 
-## 📫 Contacte
-
-<div align="center">
-  
-### 🚀 Collaboration Opportunities
-  
-</div>
+## Language Usage
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%">
-
-<div align="center">
-
-### 🌐 Sites Web
-![Web](https://img.shields.io/badge/Web-Development-FF6B35?style=for-the-badge&logo=html5)
-
-✨ **Sites web stylés**  
-🎨 Design moderne  
-⚡ Animations fluides  
-📱 Responsive design  
+![HTML](https://img.shields.io/badge/HTML-90%25-4A90E2?style=for-the-badge&logo=html5&logoColor=white&labelColor=2C3E50)
+![JavaScript](https://img.shields.io/badge/JavaScript-40%25-5DADE2?style=for-the-badge&logo=javascript&logoColor=white&labelColor=2C3E50)
+![Python](https://img.shields.io/badge/Python-15%25-85C1E9?style=for-the-badge&logo=python&logoColor=white&labelColor=2C3E50)
+![C](https://img.shields.io/badge/-10%25-AED6F1?style=for-the-badge&logo=c&logoColor=white&labelColor=2C3E50)
+![Other](https://img.shields.io/badge/Other-10%25-D6EAF8?style=for-the-badge&logoColor=white&labelColor=2C3E50)
 
 </div>
 
-</td>
-<td width="33%">
+---
+
+## Contact
 
 <div align="center">
 
-### 🤖 Bots Discord
-![Discord](https://img.shields.io/badge/Discord-Bots-5865F2?style=for-the-badge&logo=discord)
+**Open to collaboration and new projects.**
 
-🛡️ **Sécurité avancée**  
-⚙️ Gestion automatisée  
-🎯 Fonctionnalités custom  
-💎 Interface élégante  
+<br>
 
-</div>
-
-</td>
-<td width="33%">
-
-<div align="center">
-
-### 🔐 Publicite Visuel
-![Security](https://img.shields.io/badge/Publicit%C3%A9-Visuelle-DC143C?style=for-the-badge&logo=adguard&logoColor=white)
-
-✨ **Publicité visuelle impactante**  
-🎯 Création de bannières, logos, affiches  
-🚀 Identité graphique unique  
-📢 Communication digitale efficace  
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  
-### 💻 Tu codes la nuit, café à la main ? 
-**On va bien s'entendre !** ☕🌙
-
-[![Contact Me](https://img.shields.io/badge/Contact-Me-FF6B35?style=for-the-badge&logo=telegram&logoColor=white)](mailto:evan.goreau@gmail.com)
+[![Email](https://img.shields.io/badge/_Email-evan.goreau@gmail.com-5DADE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C1C1C)](mailto:evan.goreau@gmail.com)
+[![Discord](https://img.shields.io/badge/_Discord-1Leeway-4A90E2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1C1C1C)](https://discord.com)
 
 </div>
 
 ---
 
 <div align="center">
-  
-*Made with 💖 and lots of ☕ by Evan*
+
+*Professional development with attention to detail*
 
 </div>
