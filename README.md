@@ -21,9 +21,13 @@
 </div>
 
 ---
+
 <div align="center">
+  
 ## About Me
+
 <div align="center">
+  
 **Cybersecurity Student** pursuing Bac Pro CIEL, specializing in full-stack development and UI/UX design.  
 Focused on creating clean, functional, and visually appealing digital solutions.
 
