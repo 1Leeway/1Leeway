@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | UI/UX Designer
 
-<img src="https://i.imgur.com/gCyacXu.png" alt="avatar" width="150" />
+<img src="https://imgur.com/a/iqKEicW" alt="avatar" width="150" />
 
 [![GitHub followers](https://img.shields.io/github/followers/1leeway?style=for-the-badge&logo=github&color=4A90E2&labelColor=2C3E50)](https://github.com/1leeway)
 [![GitHub stars](https://img.shields.io/github/stars/1leeway?style=for-the-badge&logo=github&color=5DADE2&labelColor=2C3E50)](https://github.com/1leeway)
