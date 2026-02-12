@@ -6,17 +6,17 @@
 
 <img src="https://i.imgur.com/px33ZMH.png" alt="avatar" width="150" />
 
-[![GitHub followers](https://img.shields.io/github/followers/1leeway?style=for-the-badge&logo=github&color=4A90E2&labelColor=2C3E50)](https://github.com/1leeway)
-[![GitHub stars](https://img.shields.io/github/stars/1leeway?style=for-the-badge&logo=github&color=5DADE2&labelColor=2C3E50)](https://github.com/1leeway)
-![Profile views](https://komarev.com/ghpvc/?username=1leeway&style=for-the-badge&color=85C1E9&labelColor=2C3E50)
+[![GitHub followers](https://img.shields.io/github/followers/1leeway?style=for-the-badge&logo=github&logoColor=1A1A1A&color=1E1E1E&labelColor=F2F2F2)](https://github.com/1leeway)
+[![GitHub stars](https://img.shields.io/github/stars/1leeway?style=for-the-badge&logo=github&logoColor=1A1A1A&color=1E1E1E&labelColor=F2F2F2)](https://github.com/1leeway)
+![Profile views](https://komarev.com/ghpvc/?username=1leeway&style=for-the-badge&color=1E1E1E&labelColor=F2F2F2)
 
 </div>
 
 <div align="center">
 
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=1C1C1C)](https://twitch.tv/1Leewayy)
-[![Discord](https://img.shields.io/badge/Discord-4A90E2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1C1C1C)](https://discord.gg/Leeway-Studio)
-[![Email](https://img.shields.io/badge/Email-5DADE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C1C1C)](mailto:evan.goreau@gmail.com)
+[![Twitch](https://img.shields.io/badge/Twitch-1E1E1E?style=for-the-badge&logo=twitch&logoColor=1A1A1A&labelColor=F2F2F2)](https://twitch.tv/1Leewayy)
+[![Discord](https://img.shields.io/badge/Discord-1E1E1E?style=for-the-badge&logo=discord&logoColor=1A1A1A&labelColor=F2F2F2)](https://discord.gg/Leeway-Studio)
+[![Email](https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=1A1A1A&labelColor=F2F2F2)](mailto:evan.goreau@gmail.com)
 
 </div>
 
