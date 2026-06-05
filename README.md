@@ -4,8 +4,6 @@
 
 ### Full-Stack Developer | UI/UX Designer
 
-<img src="https://i.imgur.com/px33ZMH.png" alt="avatar" width="150" />
-
 [![GitHub followers](https://img.shields.io/github/followers/1leeway?style=for-the-badge&logo=github&logoColor=1A1A1A&color=1E1E1E&labelColor=F2F2F2)](https://github.com/1leeway)
 [![GitHub stars](https://img.shields.io/github/stars/1leeway?style=for-the-badge&logo=github&logoColor=1A1A1A&color=1E1E1E&labelColor=F2F2F2)](https://github.com/1leeway)
 ![Profile views](https://komarev.com/ghpvc/?username=1leeway&style=for-the-badge&color=1E1E1E&labelColor=F2F2F2)
